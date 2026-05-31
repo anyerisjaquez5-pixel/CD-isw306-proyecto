@@ -1,3 +1,4 @@
+
 const formulario = document.querySelector("form");
 const mensaje = document.getElementById("mensaje");
 
