@@ -61,6 +61,8 @@
                         Recibir notificaciones por correo
                     </label>
                 </fieldset>
+                
+                <div id="mensaje"></div>
 
                 <button type="submit">Registrar Información</button>
             </form>
