@@ -93,6 +93,7 @@ Se utiliza SQL Server con Entity Framework Core, aplicando migraciones para la c
 - Albert Charles Stubbs Camacho – ID: 100078775  
 - Daniela Cabral Castillo – ID: 100076597  
 - Elian Dominguez – ID: 100072737  
+- Carlos Marte - ID: 100056063
 
 ---
 
